@@ -1,0 +1,6 @@
+JNE	Narcisse	Jacques	TOTAL,Projet 1,\N,BNP PARIBAS,Projet 2,27	Français:Maternelle,Anglais:Courant
+JMX	Mailloux	Joseph	SOCIETE GENERALE,Projet 3,3 ans,DANONE,Projet 5,\N	Français:Maternelle,Allemand:Courant,Anglais:Notions
+FLU	Lereau	Felicienne	VINCI,Projet 6,7 ans	Français:Maternelle,Anglais:Courant,Allemand:Notions
+JGS	Gadbois	Joséphine	TOTAL,Projet 1,6 mois,EDF,Projet 4,5	Français:Maternelle,Anglais:Notions,Allemand:Courant
+MJR	Jolicoeur	Marcel	GDF,Projet 7,18	Français:Maternelle,Arabe:Notions
+GPR	Provencher	Guillaume	BNP PARIBAS,Projet 2,6 mois,TOTAL,Projet 1,2 ans	Français:Maternelle,Anglais:Courant

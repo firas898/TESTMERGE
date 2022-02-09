@@ -1,0 +1,100 @@
+1	Tokyo	42796714	(2014)	Japon
+2	Jakarta	31689592	(2015)	Indonésie
+3	Delhi	26454086	(2017)	Inde
+4	Séoul	25425184	(2016)	Corée du Sud
+5	Bombay (Mumbai)	24337993	(2017)	Inde
+6	Shanghai	24256800	(2014)	Chine
+7	Manille	24197302	(2015)	Philippines
+8	New York	23689255	(2016)	États-Unis
+9	Le Caire	22969528	(2016)	Égypte
+10	Lagos	22829561	(2014)	Nigeria
+11	Pékin (Beijing)	21716000	(2014)	Chine
+12	São Paulo	21090691	(2013)	Brésil
+13	Mexico	20879830	(2014)	Mexique
+14	Keihanshin (Osaka - Kyoto - Kobe)	19777590	(2014)	Japon
+15	Bangkok	18927786	(2015)	Thaïlande
+16	Los Angeles	18688022	(2016)	États-Unis
+17	Dacca (Dhaka)	18515648	(2017)	Bangladesh
+18	Calcutta (Kolkata)	16681589	(2017)	Inde
+19	Karachi	16625813	(2017)	Pakistan
+20	Chongqing	15294255	(2014)	Chine
+21	Téhéran	15262564	(2012)	Iran
+22	Buenos Aires	15095458	(2016)	Argentine
+23	Moscou	14926513	(2016)	Russie
+24	Istanbul	14804116	(2017)	Turquie
+25	Hyderabad (Haïdarabad)	14731106	(2017)	Inde
+26	Londres	14611324	(2016)	Royaume-Uni
+27	Chengdu	14527500	(2014)	Chine
+28	Hô-Chi-Minh-Ville	13648914	(2015)	Viêt Nam
+29	Gauteng (Johannesburg - Pretoria)	13399725	(2016)	Afrique du Sud
+30	Bangalore (Bengaluru)	13180744	(2017)	Inde
+31	Bagdad	13034225	(2015)	Irak
+32	Chennai (Madras)	12906602	(2017)	Inde
+33	Canton (Guangzhou)	12700800	(2014)	Chine
+34	Paris	12568755	(2016)	France
+35	Lahore	12328075	(2017)	Pakistan
+36	Rio de Janeiro	12140906	(2013)	Brésil
+37	Kinshasa	12071463	(2016)	République démocratique du Congo
+38	Rhin-Ruhr	11857353	(2012)	Allemagne
+39	Nagoya	11321935	(2014)	Japon
+40	Tianjin	11090314	(2014)	Chine
+41	Surabaya	10818385	(2015)	Indonésie
+42	Bogota	10763453	(2015)	Colombie
+43	Lima	10685466	(2014)	Pérou
+44	Shenzhen	10357938	(2014)	Chine
+45	Wuhan	10120000	(2014)	Chine
+46	Chicago	9882634	(2016)	États-Unis
+47	Washington	9655892	(2016)	États-Unis
+48	Taipei	9164775	(2017)	Taïwan
+49	San Francisco - San José	8751807	(2016)	États-Unis
+50	Bandung	8495928	(2015)	Indonésie
+51	Nairobi	8341582	(2016)	Kenya
+52	Milan	8247125	(2014)	Italie
+53	Luanda	8234098	(2014)	Angola
+54	Dongguan	8220937	(2014)	Chine
+55	Kuala Lumpur	8178330	(2016)	Malaisie
+56	Boston	8176376	(2016)	États-Unis
+57	Singapour	8081299	(2016)	Singapour
+58	Ahmedabad	8067743	(2017)	Inde
+59	Busan	8050434	(2016)	Corée du Sud
+60	Islamabad - Rawalpindi	7902211	(2017)	Pakistan
+61	Randstad (Amsterdam - La Haye - Rotterdam)	7879720	(2014)	Pays-Bas
+62	Faisalabad	7873910	(2017)	Pakistan
+63	Alger	7796923	(2015)	Algérie
+64	Dallas	7673305	(2016)	États-Unis
+65	Hanoï	7588150	(2015)	Viêt Nam
+66	Santiago	7482635	(2016)	Chili
+67	Hong Kong	7374885	(2017)	Chine
+68	Rangoon	7360703	(2014)	Birmanie
+69	Foshan	7261800	(2014)	Chine
+70	Semarang	7242987	(2015)	Indonésie
+71	Khartoum	7221323	(2014)	Soudan
+72	Philadelphie	7179357	(2016)	États-Unis
+73	Houston	6972374	(2016)	États-Unis
+74	Nankin (Nanjing)	6852984	(2014)	Chine
+75	Shenyang	6761964	(2014)	Chine
+76	Miami	6723472	(2016)	États-Unis
+77	Surate	6635001	(2017)	Inde
+78	Atlanta	6451262	(2016)	États-Unis
+79	Madrid	6399323	(2017)	Espagne
+80	Toronto	6242373	(2016)	Canada
+81	Pune	6226259	(2017)	Inde
+82	Riyad	6152180	(2015)	Arabie saoudite
+83	Amman	6101172	(2015)	Jordanie
+84	Surakarta	5984519	(2015)	Indonésie
+85	Ibadan	5881345	(2014)	Nigeria
+86	Colombo	5837294	(2012)	Sri Lanka
+87	Belo Horizonte	5737729	(2013)	Brésil
+88	Hangzhou	5695313	(2014)	Chine
+89	Xi'an	5624154	(2014)	Chine
+90	Dar es Salam	5572776	(2016)	Tanzanie
+91	Dubaï	5429549	(2016)	Émirats arabes unis
+92	Barcelone	5407264	(2017)	Espagne
+93	Shantou	5391028	(2014)	Chine
+94	Ankara	5346518	(2017)	Turquie
+95	Détroit	5318653	(2016)	États-Unis
+96	Saint-Pétersbourg	5225690	(2016)	Russie
+97	San Diego - Tijuana	5213646	(2016)	États-Unis - Mexique
+98	Medan	5189241	(2015)	Indonésie
+99	Harbin	5125689	(2014)	Chine
+100	Alexandrie	4984387	(2016)	Égypte
